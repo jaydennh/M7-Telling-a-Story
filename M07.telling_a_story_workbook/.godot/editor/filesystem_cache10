@@ -1,6 +1,5 @@
 63f7b34db8d8cdea90c76aacccf841ec
-::res://::1761345360
-dialogue.tscn::PackedScene::4733404674026394390::1761345366::0::1::::<><><>0<>0<><>::
+::res://::1761603733
 icon_telling_a_story.png::CompressedTexture2D::6303229813746255456::1760899870::1761163938::1::::<><><>0<>0<>e643ef57334e7b0b7d625ea9018c612e<>res://.godot/imported/icon_telling_a_story.png-575f1234b8f51c85751bd402286d7779.ctex::
 ::res://addons/::1761163115
 ::res://addons/gdpractice/::1761163115
@@ -161,7 +160,8 @@ talking_synth_alternate.ogg::AudioStreamOggVorbis::3285191881384235626::17608998
 test.svg::CompressedTexture2D::996294012766278173::1760899870::1761163938::1::::<><><>0<>0<>ba4341a6c83fa4e0504ef2d150f3a830<>res://.godot/imported/test.svg-689185d65599d06cb921948f33195eb0.ctex::
 ::res://assets/extras/::1761163938
 emotion_angry.png::CompressedTexture2D::4318358562975653356::1760899870::1761163938::1::::<><><>0<>0<>adbc721005eba82a7e28488a90570101<>res://.godot/imported/emotion_angry.png-fd0c3451c84588ea85c8053c4187c2db.ctex::
-::res://lessons/::1761163092
+::res://lessons/::1761346371
+dialogue.tscn::PackedScene::4733404674026394390::1761346371::0::1::::<><><>0<>0<><>::uid://ogu21ixgdm50::::res://assets/test.svg
 ::res://practices/::1761163958
 ::res://practices/L5.P1.pick_correct_response/::1761163958
 pick_correct_response.gd::GDScript::4093551056369971252::1760899870::0::1::::<>ColorRect<><>0<>0<><>::
