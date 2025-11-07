@@ -92,6 +92,10 @@ func show_text() -> void:
 	rich_text_label.text = current_item["text"]
 	expression.texture = current_item["expression"]
 	body.texture = current_item["character"]
+	next_button.disabled = true
+	tween.finished.connect(func() -> void:
+		next_button.disabled = false
+	)
 
 func advance() -> void:
 	current_item_index += 1
