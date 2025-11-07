@@ -20,12 +20,12 @@ var bodies := {
 var dialogue_items: Array[Dictionary] = [
 	{
 		"expression": expressions["regular"],
-		"text": "Hello, I'm Jayden's Assistant.",
+		"text": "[wave]Hello[/wave], I'm Jayden's Assistant.",
 		"character": bodies["sophia"],
 	},
 	{
 		"expression": expressions["regular"],
-		"text": "Oh why hello there. I'm looking for Jayden, do you know where he's at?",
+		"text": "Oh why hello there. I'm looking for [i]Jayden[/i], do you know where he's at?",
 		"character": bodies["pink"],
 	},
 	{
@@ -35,7 +35,7 @@ var dialogue_items: Array[Dictionary] = [
 	},
 	{
 		"expression": expressions["sad"],
-		"text": "Aw man, I was hoping he'd be here today.",
+		"text": "[shake]Aw man[/shake], I was hoping he'd be here today.",
 		"character": bodies["pink"],
 	},
 	{
@@ -65,7 +65,7 @@ var dialogue_items: Array[Dictionary] = [
 	},
 	{
 		"expression": expressions["happy"],
-		"text": "Yippee!",
+		"text": "[tornado freq=3.0][rainbow val=1.0]Yippee![/rainbow][/tornado]",
 		"character": bodies["pink"],
 	},
 ]
